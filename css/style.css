@@ -1,0 +1,1084 @@
+body{
+	background: white;
+}
+header{
+	background: white;
+	width: 100%;
+	margin: 0 auto;
+	padding: 2%;
+}
+
+header .favimg{
+	width: 14%;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+.firul{
+	width: 45%;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+	margin-left: 136px;
+}
+.firul li{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+font-size: 50px;
+font-family: tahoma;
+cursor: pointer;
+color: rgb(112 112 112);;
+}
+.firul li:hover{
+	color: black;
+}
+.midli{
+margin-right: 44px;
+margin-left: -39px;
+}
+.lstul{
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-top: 40px;
+}
+.lstul li{
+	display: inline-block;
+	vertical-align: top;
+	width: 24%;
+font-size: 50px;
+text-align: center;
+font-family: tahoma;
+cursor: pointer;
+}
+.inptbnt{
+	display: inline-block;
+}
+.firinpt{
+font-size: 50px;
+font-family: tahoma;
+border: none ;
+background: rgb(235 235 235);
+margin-top: 102px;
+width: 2200px;
+height: 192px;
+padding-left: 120px;
+}
+.firbtn{
+width: 425px;
+height: 187px;
+font-size: 50px;
+border: 2px solid none;
+background: rgb(0 131 140);
+color: white;
+cursor: pointer;
+}
+/*###################################### COMDIV	*/
+.com{
+	display: inline-block;
+	vertical-align: top;
+	width: 350px;
+	margin-top: 158px;
+margin-left: 332px;
+}
+.com .imgcom{
+    display: inline-block;
+	vertical-align: top;
+	width: 65px;
+}
+.com .hcom{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 42px;
+margin-bottom: 31.14px;
+margin-top: 0px;
+margin-left: 17px;
+color: rgb(118 118 118);
+font-family: tahoma;
+}
+/*################################  netdiv*/
+
+.net{
+display: inline-block;
+	vertical-align: top;
+	width: 430px;
+	margin-top: 158px;
+margin-left: 39px;
+}
+.net .imgnet{
+display: inline-block;
+	vertical-align: top;
+	width: 100px;
+}
+.net .hnet{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 42px;
+margin-bottom: 31.14px;
+margin-top: 0px;
+margin-left: 17px;
+color: rgb(118 118 118);
+font-family: tahoma;
+}
+/*########################### livediv*/
+.live{
+display: inline-block;
+	vertical-align: top;
+width: 434px;
+	margin-top: 158px;
+margin-left: 172px;
+margin-left: 0px;
+}
+.live .imglive{
+display: inline-block;
+	vertical-align: top;
+	width: 100px;
+}
+.live .hlive{
+	display: inline-block;
+	vertical-align: top;
+		font-size: 42px;
+margin-bottom: 31.14px;
+margin-top: 0px;
+margin-left: 17px;
+color: rgb(118 118 118);
+font-family: tahoma;
+}
+/*################################ storediv*/
+.store{
+display: inline-block;
+	vertical-align: top;
+		width: 530px;
+	margin-top: 158px;
+margin-left: 172px;
+margin-left: 0px;
+}
+.store .imgstore{
+display: inline-block;
+	vertical-align: top;
+	width: 100px;
+}
+.store .hstore{
+display: inline-block;
+	vertical-align: top;
+			font-size: 42px;
+margin-bottom: 31.14px;
+margin-top: 0px;
+margin-left: 17px;
+color: rgb(118 118 118);
+font-family: tahoma;
+}
+/*###################################### end header*/
+
+.frssec{
+	background-image:url(../images/theman.png);
+	height:1500px;
+	background-size:cover;
+	background-position:top;
+	background-repeat:no-repeat;
+	width: 65%;
+	margin-left: 100px;
+	border: 1px solid rgb(200 218 230);
+border-radius: 10px;
+display: inline-block;
+}
+
+.harabic{
+	padding-top: 90px;
+padding-left: 127px;
+font-size: 59px;
+margin-top: 0;
+margin-bottom: 0px;
+font-family: arial;
+font-weight: lighter;
+}
+.honearabic{
+	padding-left: 127px;
+font-size: 162px;
+width: 1300px;
+}
+.hsixarabic{
+	padding-left: 127px;
+font-size: 46px;
+font-family: arial;
+font-weight: initial;
+width: 1152.6px;
+margin-top: -78px;
+margin-bottom: 0px;
+}
+.bntarabic{
+	margin-left: 125px;
+width: 430px;
+height: 130px;
+font-size: 42px;
+font-family: arial;
+background: black;
+color: white;
+margin-top: 75px;
+display: inline-block;
+}
+.hsixlearn{
+display: inline-block;
+width: 300px;
+font-size: 36px;
+font-family: arial;
+/*font-weight: lighter;*/
+margin-left: 65px;
+color: rgb(0, 131, 140);
+}
+.noreq{
+	margin-left: 125px;
+font-size: 30px;
+color: gray;
+font-family: arial;
+}
+.secarabic{
+	display: inline-block;
+	background: black;
+	width: 30%;
+height: 1500px;
+vertical-align: top;
+margin-left: 66px;
+border: 1px solid rgb(200 218 230);
+border-radius: 10px;
+background: rgb(186 209 222);;
+}
+.hsixdomain{
+	font-size: 50px;
+margin-left: 150px;
+font-family: arial;
+margin-bottom: 0px;
+}
+.honeegp{
+margin-left: 150px;
+font-size: 130px;
+width: 900px;
+margin-top: 23.9px;
+}
+.hfivedomain{
+margin-left: 150px;
+font-size: 40px;
+width: 750px;
+font-family: arial;
+font-weight: inherit;
+color: rgb(17 17 17 / 79%);
+}
+.btndomain{
+	margin-left: 150px;
+	width: 700px;
+height: 160px;
+font-size: 50px;
+font-family: arial;
+background: black;
+color: white;
+}
+.hfourdomain{
+	margin-left: 150px;
+margin-top: 60px;
+font-size: 35px;
+font-family: arial;
+color: rgb(17 17 17 / 79%);;
+font-weight: lighter;
+}
+/*#########################################*/
+.hwordsmid{
+margin-left: 100px;
+font-size: 110px;
+width: 35%;
+font-family: arial;
+}
+/*##############################################*/
+.moredivs{
+margin-left: 100px;
+}
+/*################## website div */
+.websitdiv{
+background: rgb(231, 231, 231);
+width: 30%;
+height: 1400px;
+border: 1px solid rgb(248 248 248);;
+border-radius: 20px;
+display: inline-block;
+}
+.frstit{
+  font-size: 43px;
+  font-family: arial;
+  font-weight: lighter;
+  padding: 1;
+  margin-left: 108px;
+}
+.fivestars{
+	width: 350px;
+	 margin-left: 100px;
+}
+.honeweb{
+	width: 1000px;
+font-size: 83px;
+font-family: arial;
+margin-left: 100px;
+letter-spacing: 1px;
+line-height: 120px;
+font-weight: lighter;
+}
+.hannker{
+	font-size: 35px;
+margin-left: 100px;
+font-family: arial;
+margin-top: 315px;
+}
+/*####################### second div*/
+
+.easydiv{
+background: rgb(231, 231, 231);
+width: 30%;
+height: 1400px;
+border: 1px solid rgb(248 248 248);;
+border-radius: 20px;
+display: inline-block;
+vertical-align: top;
+margin-left: 100px;
+}
+.hsixway{
+font-size: 45px;
+ font-family: arial;
+ font-weight: lighter;
+  margin-left: 108px;
+margin-top: 110px;
+}
+.fourstars{
+width: 350px;
+ margin-left: 100px;
+}
+.honeway{
+width: 1078px;
+font-size: 83px;
+font-family: arial;
+margin-left: 100px;
+letter-spacing: 1px;
+line-height: 120px;
+font-weight: lighter;
+}
+.hsixways{
+font-size: 35px;
+margin-left: 100px;
+font-family: arial;
+margin-top: 415px;
+}
+/*###########################################*/
+.easypdiv{
+	background: rgb(231, 231, 231);
+width: 30%;
+height: 1400px;
+border: 1px solid rgb(248 248 248);;
+border-radius: 20px;
+display: inline-block;
+vertical-align: top;
+margin-left: 100px;
+}
+.hsixeasy{
+font-size: 45px;
+ font-family: arial;
+ font-weight: lighter;
+  margin-left: 108px;
+margin-top: 110px;
+}
+.imgeasy{
+	width: 350px;
+ margin-left: 100px;
+}
+.honeeasy{
+width: 1200px;
+font-size: 50px;
+font-family: arial;
+margin-left: 100px;
+line-height: 120px;
+font-weight: lighter;
+letter-spacing: -1px;
+line-height: 100px;
+}
+.hsixeasyp{
+	font-size: 35px;
+margin-left: 100px;
+font-family: arial;
+margin-top: 315px;
+}
+/*###################################################*/
+.divstarword{
+margin-left: 100px;
+margin-top: 100px;
+}
+.honestarword{
+font-size: 120px;
+font-family: arial;
+}
+.fourfivestar{
+	width: 500px;
+	cursor: pointer;
+}
+.honestarparg{
+	margin-top: 42.44px;
+font-size: 50px;
+font-family: arial;
+font-weight: lighter;
+letter-spacing: -1px;
+}
+/*################################## first section div and pic*/
+
+.imganddivword{
+	width: 100%;
+	margin-left: 100px;
+	margin-top: 300px;
+}
+.imganddiv{
+	width: 40%;
+	height: 1500px;
+	display: inline-block;
+}
+.honepro{
+padding-top: 20%;
+font-family: arial;
+font-weight: lighter;
+font-size: 50px;
+color: black;
+padding-left: 20%;
+color: black;
+}
+.htwobuild{
+	padding-left: 20%;
+	font-weight: lighter;
+font-size: 135px;
+margin-top: 30.88px;
+font-weight: bold;
+color: black;
+}
+.pword{
+width: 90%;
+padding-left: 20%;
+font-size: 53px;
+font-family: arial;
+letter-spacing: 3px;
+line-height: 81px;
+color: black;
+}
+.seeemail{
+	background: white;
+width: 24%;
+height: 9%;
+font-size: 37px;
+font-family: arial;
+border: 4px solid black;
+margin-left: 20%;
+margin-top: 2%;
+font-weight: bold;
+border-radius: 10px;
+ cursor: pointer;
+}
+.seeemail:hover{
+	color: rgb(0 164 166);
+	border: 4px solid black;
+
+}
+.divimgyouu{
+display: inline-block;
+vertical-align: top;
+height: 1500px;
+margin-left: 450px;
+}
+.imgyouudiv{
+	  width: 2250px;
+}
+/*############################### section http*/
+
+.sechttp{
+width: 100%;
+margin-top: 500px;
+height: 1500px;
+}
+.divimghttp{
+display: inline-block;
+vertical-align: top;
+}
+.httpimg{
+margin-left: 200px;
+width: 2250px;
+}
+.sslsecurtydiv{
+	display: inline-block;
+vertical-align: top;
+	width: 40%;
+	height: 1500px;
+	display: inline-block;
+	margin-left: 300px;
+}
+.hsixssl{
+  padding-top: 15%;
+  font-family: arial;
+  font-weight: lighter;
+  font-size: 50px;
+  color: black;
+  padding-left: 0%;
+}
+.htwossl{
+		padding-left: 0%;
+	font-weight: lighter;
+font-size: 135px;
+margin-top: 30.88px;
+font-weight: bold;
+color: black;
+margin-top: -72.12px;
+margin-bottom: 0px;
+}
+.pssl{
+	width: 90%;
+padding-left: 0%;
+font-size: 53px;
+font-family: arial;
+letter-spacing: 2px;
+line-height: 81px;
+color: black;
+}
+.getsecure{
+	display: inline-block;
+	vertical-align: top;
+		background: white;
+width: 24%;
+height: 9%;
+font-size: 37px;
+font-family: arial;
+border: 4px solid black;
+margin-left: 0%;
+margin-top: 2%;
+font-weight: bold;
+border-radius: 10px;
+ cursor: pointer;
+}
+.getsecure:hover{
+	color: rgb(0 164 166);
+	border: 4px solid black;
+
+}
+.honecheck{
+		display: inline-block;
+	vertical-align: top;
+	 color: rgb(0 164 166);
+  font-size: 42px;
+  font-family: arial;
+  font-weight: lighter;
+  margin-top: 76px;
+  margin-bottom: 0px;
+  margin-left: 62px;
+  cursor: pointer;
+}
+/*######################### section hosting*/
+
+.sechosting{
+		width: 100%;
+	margin-left: 100px;
+	margin-top: 485px;
+}
+.divhostingword{
+	display: inline-block;
+	vertical-align: top;
+		width: 40%;
+	height: 1500px;
+
+}
+.hsichosting{
+font-family: arial;
+font-weight: lighter;
+font-size: 50px;
+color: black;
+padding-left: 20%;
+padding-top: 20%;
+}
+.htwohosting{
+		padding-left: 20%;
+	font-weight: lighter;
+font-size: 135px;
+margin-top: -57px;
+font-weight: bold;
+color: black;
+line-height: 119px;
+}
+.phosting{
+	width: 94%;
+padding-left: 20%;
+font-size: 53px;
+font-family: arial;
+letter-spacing: 3px;
+line-height: 81px;
+color: black;
+margin-top: -54px;
+}
+.seewebb{
+		background: white;
+width: 28%;
+height: 10%;
+font-size: 37px;
+font-family: arial;
+border: 4px solid black;
+margin-left: 20%;
+margin-top: 2%;
+font-weight: bold;
+border-radius: 10px;
+ cursor: pointer;
+
+}
+.seewebb:hover{
+	color: rgb(0 164 166);
+	border: 4px solid black;
+
+}
+.imgcomp{
+	display: inline-block;
+	vertical-align: top;
+margin-left: 450px;
+}
+.computer{
+	width: 2250px;
+}
+
+/*################################ two div java*/
+
+.twodivs{
+margin-top: 200px;
+margin-left: 300px;
+}
+.divmobile{
+	display: inline-block;
+	vertical-align: top;
+	width: 42%;
+height: 2699px;
+}
+.mobile{
+	width: 100%;
+}
+.hsixweb{
+margin-left: 50px;
+font-size: 40px;
+font-family: arial;
+font-weight: lighter;
+}
+.honemobile{
+	margin-left: 50px;
+	font-size: 127px;
+width: 81%;
+margin-top: -73px;
+}
+.pmobile{
+	width: 100%;
+		margin-left: 50px;
+		font-size: 62px;
+		margin-top: -52px;
+}
+.startfree{
+	margin-left: 50px;
+	width: 24%;
+height: 118px;
+font-size: 44px;
+background: white;
+border: 1px solid black;
+font-family: arial;
+margin-top: 166px;
+}
+.startfree:hover{
+	color: rgb(0 164 166);
+	border: 4px solid black;
+
+}
+/*######################################## */
+.divwagabat{
+	display: inline-block;
+	vertical-align: top;
+	width: 42%;
+	margin-left: 300px;
+	height: 2699px;
+}
+.imgwagabat{
+	width: 100%;
+}
+.hsixwagabat{
+margin-left: 50px;
+font-size: 40px;
+font-family: arial;
+font-weight: lighter;
+}
+.honewagabat{
+		margin-left: 50px;
+	font-size: 127px;
+width: 70%;
+margin-top: -73px;
+}
+.pwagabat{
+		width: 97%;
+		margin-left: 50px;
+		font-size: 62px;
+		margin-top: -52px;
+}
+.strtfreewagabat{
+		margin-left: 50px;
+	width: 24%;
+height: 118px;
+font-size: 44px;
+background: white;
+border: 1px solid black;
+font-family: arial;
+margin-top: 0;
+}
+.strtfreewagabat:hover{
+	color: rgb(0 164 166);
+	border: 4px solid black;
+
+}
+/*#######################################*/
+
+.sectoninpt{
+	width: 100%;
+	height: 1000px;
+	background: rgb(216 239 239);
+}
+.honeitis{
+font-size: 156px;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 5%;
+padding-left: 32%;
+}
+.hsixitis{
+	font-size: 37px;
+padding-left: 40%;
+font-family: arial;
+font-weight: lighter;
+}
+.margggn{
+margin-left: 32%;
+}
+.intpitis{
+width: 42%;
+height: 140px;
+font-size: 50px;
+padding-left: 1%;
+}
+.search{
+	width: 8%;
+font-size: 51px;
+height: 149px;
+padding-left: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-right: 0px;
+border-left-width: 0px;
+border-left-style: solid;
+border-right-width: 0px;
+border-right-style: solid;
+border-bottom-width: 0px;
+border-bottom-style: solid;
+border-top-width: 0px;
+border-top-style: solid;
+background: black;
+color: white;
+margin-left: -4px;
+}
+
+/*#############################################*/
+.lstsec{
+	width: 100%;
+	margin-top: 206px;
+}
+.divmansbeard{
+display: inline-block;
+vertical-align: top;
+width: 50%;
+}
+.mansbeard{
+width: 100%;
+}
+.divwordbeard{
+	display: inline-block;
+	vertical-align: top;
+	width: 49%;
+	background: rgb(191 208 227);
+	height: 1681px;
+	margin-left: -3px;
+}
+.minidiv{
+	background: rgb(191 208 227);
+	width: 10%;
+	  margin-left: 0px;
+  margin-top: 8%;
+  width: 30%;
+}
+.minilogo{
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.hfourbeard{
+	display: inline-block;
+	vertical-align: top;
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 46px;
+margin-top: 0px;
+}
+.honewhy{
+	font-size: 180px;
+	width: 1000px;
+margin-top: 0px;
+}
+.pbecause{
+width: 1400px;
+font-size: 50px;
+font-family: arial;
+margin-top: -47px;
+}
+.pcall{
+	width: 1500px;
+font-size: 52px;
+margin-top: 131px;
+margin-bottom: 0px;
+}
+.inpthelp{
+	width: 20%;
+height: 119px;
+font-size: 50px;
+padding-left: 0%;
+text-align: center;
+background: black;
+color: white;
+border: 1px solid black;
+border-radius: 10px;
+margin-top: 160px;
+cursor: pointer;
+}
+.divtwohh{
+width: 30%;
+margin: 0 auto;
+}
+.honemill{
+	font-size: 148px;
+	font-family: tahoma;
+	font-weight: lighter;
+}
+.hthfreq{
+	font-size: 60px;
+	font-family: arial;
+	font-weight: lighter;
+	text-align: center;
+	margin-top: -20px;
+margin-bottom: 200px;
+}
+.secdivswords{
+	width: 40%;
+	margin: 0 auto;
+}
+.honeone{
+	font-size: 66px;
+font-family: arial;
+height: 200px;
+width: 1700px;
+cursor: pointer;
+}
+.poneone{
+font-size: 55px;
+font-family: arial;
+}
+.lastsec{
+	width: 100%;
+	background: gray;
+	height: 400px;
+}
+.lsthone{
+font-size: 50px;
+font-family: arial;
+font-weight: lighter;
+text-align: center;
+padding-top: 165px;
+}
+/*###############################################*/
+
+footer{
+background: rgb(17 17 17);
+height: 2500px;
+}
+.imgfoot{
+width: 35%;
+padding-left: 300px;
+}
+.frsthr{
+	color: gray;
+}
+/*####################################*/
+
+.hfourprices{
+	text-align: center;
+	font-size: 45px;
+	font-family: arial;
+	font-weight: lighter;
+	color: white;
+}
+/*###########################################################################################*/
+.footdivfrs{
+	display: inline-block;
+	vertical-align: top;
+}
+.honeabout{
+color: white;
+font-size: 50px;
+font-family: arial;
+padding-left: 350px;
+font-weight: lighter;
+margin-bottom: 90.5px;
+}
+.footerul{
+padding-left: 350px;
+color: white;
+font-size: 30px;
+height: 400px;
+list-style: none;
+}
+.footerul li{
+	height: 120px;
+	font-size: 50px;
+	font-family: arial;
+	color: gray;
+	cursor: pointer;
+}
+/*################################################################################################*/
+.footdivsec{
+		display: inline-block;
+	vertical-align: top;
+}
+.divtherd{
+		display: inline-block;
+	vertical-align: top;
+}
+.divforth{
+			display: inline-block;
+	vertical-align: top;
+}
+.divfive{
+display: inline-block;
+	vertical-align: top;
+}
+.divsix{
+	display: inline-block;
+	vertical-align: top;
+}
+/*####################################################################*/
+.footblack{
+width: 90%;
+background: rgb(17 17 17);
+margin-top: 450px;
+margin-left: 215px;
+height: 239px;
+}
+.logoblack{
+width: 15%;
+display: inline-block;
+vertical-align: top;
+}
+.frstselect{
+display: inline-block;
+vertical-align: top;
+width: 11%;
+margin-top: 2%;
+height: 60px;
+color: white;
+background: rgb(17 17 17);
+border: none;
+font-family: arial;
+margin-left: 157px;
+font-size: 50px;
+cursor: pointer;
+}
+.divfont{
+display: inline-block;
+vertical-align: top;
+color: white;
+margin-left: 4150px;
+margin-bottom: 0px;
+width: 1000px;
+margin-top: -78px;
+margin-bottom: 40px;
+}
+.divfont i{
+padding-left: 50px;
+font-size: 90px;
+cursor: pointer;
+
+}
+
+.divdivfoot{
+width: 90%;
+margin-left: 215px;
+}
+.pfoot{
+font-size: 37px;
+font-family: arial;
+font-weight: lighter;
+color: white;
+width: 76%;
+margin-top: 93px;
+line-height: 62px;
+		display: inline-block;
+	vertical-align: top;
+}
+ol{
+	display: inline-block;
+	vertical-align: top;
+	width: 17%;
+	margin-left: 200px;
+margin-top: 110px;
+}
+ol li{
+		display: inline-block;
+	vertical-align: top;
+	color: gray;
+	font-size: 35px;
+	width:30% ;
+	text-align: center;
+	font-family: arial;
+	font-weight: lighter;
+	cursor: pointer;
+}
+
+.pdivfoot{
+	color: white;
+	font-size: 40px;
+	font-family: arial;
+	font-weight: lighter;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.honefoot{
+	font-size: 40px;
+	font-family: arial;
+	font-weight: lighter;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: top;
+	color: rgb(97 237 234);
+	margin-left: 16px;
+margin-top: 40.8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
